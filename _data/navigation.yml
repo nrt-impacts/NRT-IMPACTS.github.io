@@ -7,7 +7,7 @@ main:
     dropdown:
     - title: "Mission"
       url: "/about_mission/"
-    - title: "Program Components"
+    - title: "Program_Components"
       url: "/about_program_components/"
     - title: "Inclusion"
       url: "/about_inclusion/"
