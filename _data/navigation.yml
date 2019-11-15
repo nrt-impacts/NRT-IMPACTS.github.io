@@ -1,13 +1,10 @@
 main:
   - title: "Home"
   url: "/"
-  side: left
-  
-       
+          
   - title: "About"
   - title: About
   url: "/about_mission/"
-  side: left
   dropdown:
   - title: "Mission"
     url: "/about_mission/"
@@ -15,9 +12,7 @@ main:
     url: "/about_program_components/"
   - title: "Inclusion"
     url: "/about_inclusion/"
-  
-  
-  
+     
     url: /year-archive/
   - title: "Trainees"
     url: /categories/
