@@ -1,24 +1,22 @@
 main:
   - title: "Home"
-  url: "/"
+    url: "/"
           
-  - title: "About"
   - title: About
-  url: "/about_mission/"
-  dropdown:
-  - title: "Mission"
     url: "/about_mission/"
-  - title: "Program Components"
-    url: "/about_program_components/"
-  - title: "Inclusion"
-    url: "/about_inclusion/"
+  dropdown:
+    - title: "Mission"
+      url: "/about_mission/"
+    - title: "Program Components"
+      url: "/about_program_components/"
+    - title: "Inclusion"
+      url: "/about_inclusion/"
      
-    url: /year-archive/
   - title: "Trainees"
     url: /categories/
   - title: "Trainers"
     url: /tags/
-  - title: "Pages"
+  - title: "Pages" 
     url: /page-archive/
   - title: "Resources"
     url: /collection-archive/
