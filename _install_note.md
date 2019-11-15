@@ -23,9 +23,13 @@ gem install jekyll bundler
 
 cd /d/GitHub/nrt-impacts.github.io/
 jekyll _3.8.5_ new .
+
 bundle install
+
 bundle update
+
 bundle install
+
 bundle exec jekyll serve
 
 - Modified Gemfile
@@ -53,7 +57,7 @@ bundle exec jekyll serve
 
 cp -r /c/Ruby26-x64/lib/ruby/gems/2.6.0/gems/minimal-mistakes-jekyll-4.16.5/* ./
 
-- Based on gemespec, include these references in the Gemfile
+- Based on gemespec, include these references in the Gemfile <-- did not do this.
   gem "jekyll", ">= 3.6", "< 5.0"
   gem "jekyll-paginate", "~> 1.1"
   gem "jekyll-sitemap", "~> 1.3"
