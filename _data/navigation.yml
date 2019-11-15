@@ -4,7 +4,7 @@ main:
           
   - title: About
     url: "/about_mission/"
-  dropdown:
+    dropdown:
     - title: "Mission"
       url: "/about_mission/"
     - title: "Program Components"
