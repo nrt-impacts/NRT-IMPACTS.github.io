@@ -17,14 +17,17 @@ title: NRT-IMPACTS
 subtitle: Interfacing Computational and Plant Sciences
 teaser: /assets/images/grapevine_leaf/500x300.JPG
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "Integrated training Model in Plant And Compu-Tational |
+Sciences is an NSF-funded program for training doctoral students to |
+employ advanced computational/data science approaches to address|
+grand challenges in plant biology".
+>- # this means to ignore newlines until "baseurl:"
+Write an awesome description for your new site here. You can edit this
+line in _config.yml. It will appear in your document head meta (for
+Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter:
-  username: "nrt_impacts"
+twitter_username: "nrt_impacts"
 github_username:  jekyll
 
 # Build settings
