@@ -1,15 +1,15 @@
 main:
-  - title: "Quick-Start Guide"
+  - title: "Home"
     url: /docs/quick-start-guide/
-  - title: "Posts"
+  - title: "About"
     url: /year-archive/
-  - title: "Categories"
+  - title: "Trainees"
     url: /categories/
-  - title: "Tags"
+  - title: "Trainers"
     url: /tags/
   - title: "Pages"
     url: /page-archive/
-  - title: "Collections"
+  - title: "Resources"
     url: /collection-archive/
   - title: "External Link"
     url: https://google.com
