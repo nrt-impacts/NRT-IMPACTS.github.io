@@ -22,7 +22,8 @@ gem install jekyll bundler
 - Open git
 
 cd /d/GitHub/nrt-impacts.github.io/
-jekyll _3.8.5_ new .
+
+bundle exec jekyll _3.8.5_ new .
 
 bundle install
 
