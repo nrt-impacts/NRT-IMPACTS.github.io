@@ -59,12 +59,18 @@ bundle exec jekyll serve
 cp -r /c/Ruby26-x64/lib/ruby/gems/2.6.0/gems/minimal-mistakes-jekyll-4.16.5/* ./
 
 - Based on gemespec, include these references in the Gemfile <-- did not do this.
-  gem "jekyll", ">= 3.6", "< 5.0"
-  gem "jekyll-paginate", "~> 1.1"
-  gem "jekyll-sitemap", "~> 1.3"
-  gem "jekyll-gist", "~> 1.5"
-  gem "jekyll-feed", "~> 0.1"
-  gem "jekyll-include-cache", "~> 0.1"
+
+gem "jekyll", ">= 3.6", "< 5.0"
+
+gem "jekyll-paginate", "~> 1.1"
+
+gem "jekyll-sitemap", "~> 1.3"
+
+gem "jekyll-gist", "~> 1.5"
+
+gem "jekyll-feed", "~> 0.1"
+
+gem "jekyll-include-cache", "~> 0.1"
 
 bundle update jekyll-sitemap
 bundle install
