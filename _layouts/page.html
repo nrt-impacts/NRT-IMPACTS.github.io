@@ -1,5 +1,6 @@
 ---
 layout: default
+<<<<<<< HEAD
 format: post
 ---
 <div class="row t30">
@@ -31,10 +32,39 @@ format: post
 
 			{% if page.teaser %}
 			<p class="teaser" itemprop="description">
+=======
+format: page-fullwidth
+---
+{% if page.image.title %}
+<div class="row t30">
+	<div class="small-12 columns">
+		<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}">
+		{% if page.image.caption_url and page.image.caption %}
+		<p class="text-right caption">
+			<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+		</p>
+		{% endif %}
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+{% endif %}
+
+
+<div class="row t30">
+	<div class="medium-12 columns">
+		<article>
+			<header>
+				{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+				<h1>{{ page.title }}</h1>
+			</header>
+
+			{% if page.teaser %}
+			<p class="teaser">
+>>>>>>> f95fad948e86f8d32bfcae3bf21e5121f7986d64
 				{{ page.teaser }}
 			</p>
 			{% endif %}
 
+<<<<<<< HEAD
 			<div itemprop="articleSection">
 			{{ content }}
 			</div>
@@ -62,4 +92,9 @@ format: post
 		{% include _sidebar.html %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
+=======
+			{{ content }}
+		</article>
+	</div><!-- /.medium-12.columns -->
+>>>>>>> f95fad948e86f8d32bfcae3bf21e5121f7986d64
 </div><!-- /.row -->

@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 ## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
+=======
+# Check out
+- https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+
+
+
+# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+>>>>>>> f95fad948e86f8d32bfcae3bf21e5121f7986d64
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
 

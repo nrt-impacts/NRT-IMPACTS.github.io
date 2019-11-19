@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - title: Start
   url: "/"
   side: left
@@ -73,3 +74,29 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+=======
+main:
+  - title: "Home"
+    url: "/"
+          
+  - title: "About"
+    url: "/about_mission/"
+    dropdown:
+    - title: "Mission"
+      url: "/about_mission/"
+    - title: "Program_Components"
+      url: "/about_program_components/"
+    - title: "Inclusion"
+      url: "/about_inclusion/"
+     
+  - title: "Trainees"
+    url: /categories/
+  - title: "Trainers"
+    url: /tags/
+  - title: "Pages" 
+    url: /page-archive/
+  - title: "Resources"
+    url: /collection-archive/
+  - title: "External Link"
+    url: https://google.com
+>>>>>>> f95fad948e86f8d32bfcae3bf21e5121f7986d64
