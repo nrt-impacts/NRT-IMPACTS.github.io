@@ -1,10 +1,21 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: About
+  url: "/About_Mission/"
   side: left
+  dropdown:
+  - title: "Mission"
+    url: "/Mission/"
+  - title: "Typography"
+    url: "/design/typography/typography/"
+  - title: "Page/Post"
+    url: "/design/page/"
+  - title: "Post-Left-Sidebar"
+    url: "/design/post-left-sidebar/"
+  - title: "Post-Right-Sidebar"
+    url: "/design/post-right-sidebar/"
 
 - title: "Templates"
   url: "/design/"
