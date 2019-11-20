@@ -11,15 +11,13 @@ widget1:
   title: "Upcoming"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'Corteva-PBGB-NRT Symposium
-Phenomic Applications in Plant Breeding
-Date: December 12-13th, 2019
-Registration Deadline: Wednesday, November 27, 2019
-
-General Registration link
-Poster Registration link
-Mini Data Carpentry Genomics Workshop schedule
-
+  text: 'Corteva-PBGB-NRT Symposium |
+Phenomic Applications in Plant Breeding |
+Date: December 12-13th, 2019 |
+Registration Deadline: Wednesday, November 27, 2019 |
+General Registration link |
+Poster Registration link |
+Mini Data Carpentry Genomics Workshop schedule |
 More details here.'
 widget2:
   title: "News & Events"
