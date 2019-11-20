@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Twitter"
   url: 'https://twitter.com/nrt_impacts?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3Anrt_impacts&ref_url=https%3A%2F%2Fimpacts.natsci.msu.edu%2F'
-  image: widget-github-303x182.jpg
+  image: twitter.svg
   text: 'via Twitter <a href="http://twitter.com/nrt_impacts">@nrt_impacts</a>.'
 #
 # Use the call for action to show a button on the frontpage
