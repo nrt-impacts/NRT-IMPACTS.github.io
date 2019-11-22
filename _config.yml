@@ -14,7 +14,7 @@ title: 'NRT-IMPACTS'
 slogan: 'Interfacing Computational & Plant Sciences'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: NSF-Research Traineeship
+description: NSF-Research Traineeship IMPACTS is supported by the National Science Foundation Research Traineeship Program (NSF DGE-1828149 <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1828149</a>).
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
