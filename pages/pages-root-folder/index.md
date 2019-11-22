@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image: "grapevine_leaf.jpg"
+  image: "grapevine_leaf.png"
   background-color: "#fabb00"
 widget1:
   title: "Upcoming"
