@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image: "grapevine_leaf_2-970.png"
-  background-color: "#00000"
+  background-color: "#1D1703"
 widget1:
   title: "Upcoming"
   url: ''
