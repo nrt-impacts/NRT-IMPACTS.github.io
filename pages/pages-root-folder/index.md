@@ -6,8 +6,10 @@
 #
 layout: frontpage
 header:
-  image: "grapevine_leaf.png"
+  image: "grapevine_leaf_2-970.png"
   background-color: "#fabb00"
+  caption: This is a caption for the header image with link
+  caption_url: https://unsplash.com/
 widget1:
   title: "Upcoming"
   url: ''
