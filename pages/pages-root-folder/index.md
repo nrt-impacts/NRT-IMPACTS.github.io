@@ -6,7 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_leaf.jpg
+  image: "grapevine_leaf-970x.jpg"
+  background-color: "#fabb00"
 widget1:
   title: "Upcoming"
   url: ''
