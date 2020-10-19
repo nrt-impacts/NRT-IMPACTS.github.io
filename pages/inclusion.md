@@ -1,15 +1,17 @@
 ---
 layout: page
-title: "Mission"
+title: "Inclusion"
 subheadline: "About"
-permalink: "/about_mission/"
+permalink: "/about_inclusion/"
 header:
     image_fullwidth: "header_mps.png"
 ---
 
-Our understanding of how plants function has been significantly advanced by genomics research. Application of genomics has yielded datasets with the potential to revolutionize 
-plant sciences and to ensure safe, reliable, and sustainable production of food and biofuels for a rapidly increasing global population.  To achieve this, there is a critical need 
-for next-generation scientists with both an understanding of plant biology and computational skills. This National Science Foundation Research Traineeship (NRT) award to Michigan 
-State University will address this demand by training doctoral students who can employ advanced computational and data science approaches to address grand challenges in plant 
-biology.
+## Inclusion
+The IMPACTS program consists of a community of people from a variety of backgrounds and experiences. We encourage diverse perspectives and approaches to science. We strive for 
+positive institutional and cultural change, with the goal of ensuring that the Program reflects and upholds our shared ideals as scientists, educators, scholars, students, and 
+community members. We are committed to identifying ways to build a culturally diverse environment by listening to our community members and implementing practices to foster 
+inclusivity. We pledge to improve campus climate pertaining to ableism, ageism, ethnocentrism, homophobia, racism, religious oppression, sexism, sexual misconduct, transphobia, 
+and other forms of marginalization. We value diversity, reject judgments based on differences, and instead embrace those differences as assets. Our success depends on our 
+diversity and together we will shape the future.
 
