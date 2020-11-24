@@ -65,6 +65,8 @@ paginate_path: "blog/page:num"   # Pagination path › Important for blog page i
 # Theme works best with Kramdown (using the table of contents function)
 markdown           : kramdown
 permalink          : /:categories/:title/
+permalink          : /_pages/Mission.md/Mission/
+permalink          : /_pages/inclusion/
 highlight          : rouge
 excerpt_separator  : "<!--more-->"
 include            : ['.htaccess']
@@ -78,7 +80,6 @@ exclude:
     - README.md
     - INSTALL.md
     - vendor
-
 
 # The language setting is used in /includes/header.html for html-settings
 language: 'en'
