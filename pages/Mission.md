@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "Mission"
-subheadline: "About"
-permalink: "/about_mission/"
+permalink: "/about/"
 header:
     image_fullwidth: "header_mps.png"
 ---
