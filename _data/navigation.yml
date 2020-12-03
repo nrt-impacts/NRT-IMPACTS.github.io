@@ -1,24 +1,65 @@
-main:
-  - title: "Home"
-    url: "/"
-          
-  - title: About
-    url: "/about_mission/"
-    dropdown:
-    - title: "Mission"
-      url: "/about_mission/"
-    - title: "Program Components"
-      url: "/about_program_components/"
-    - title: "Inclusion"
-      url: "/about_inclusion/"
-     
-  - title: "Trainees"
-    url: /categories/
-  - title: "Trainers"
-    url: /tags/
-  - title: "Pages" 
-    url: /page-archive/
-  - title: "Resources"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: "/About_Mission/"
+  side: left
+  dropdown:
+  - title: "Mission"
+    url: "/Mission/"
+  - title: "Program Components"
+    url: "/Program Components/"
+  - title: "Inclusion"
+    url: "/Inclusion/"
+
+- title: "Participation"
+  url: "/Participation/"
+  side: left
+  dropdown:
+  - title: "Why participate as a student Trainee?"
+    url: "/Why participate as a student Trainee?/"
+  - title: "Why participate as a Trainer?"
+    url: "/Why participate as a Trainer?/"
+ 
+- title: "Program"
+  url: "/headers/"
+  side: left
+  dropdown:
+  - title: "Goals"
+    url: "/Goals/"
+  - title: "Contents"
+    url: "/Contents/"
+  - title: "Organization"
+    url: "/Organization/"
+  - title: "Reports & Logic Model"
+    url: "/Reports & Logic Model/"
+
+- title: Trainees
+  url: "/Trainees/"
+  side: left
+  dropdown:
+  - title: "2019 Cohort"
+    url: "/2019_Cohort/"
+  - title: "2018 Cohort"
+    url: "/2018_Cohort/"
+
+- title: Staff/Trainers
+  url: "/Staff/Trainers/"
+  side: left
+  
+- title: News & Events
+  url: "/News_&_Events/"
+  side: left
+  
+- title: Resources
+  url: "/Resources/"
+  side: left
+  
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
