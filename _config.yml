@@ -24,7 +24,7 @@ credits: '<p>Created by <a href="http://phlow.de/">Phlow</a> with <a href="http:
 author: nrt-impacts
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-#
+
 url: 'https://nrt-impacts.github.io'
 baseurl: ''
 
