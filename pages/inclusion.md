@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "Inclusion"
-subheadline: "About"
-permalink: "/about_inclusion/"
+subheadline:  "About"
+title:  "Inclusion"
+teaser: "Our Inclusion Statement"
 header:
-    image_fullwidth: "header_mps.png"
+   image_fullwidth: "header_homepage_13.jpg"
+permalink: "/About/"
 ---
 
 ## Inclusion
@@ -14,4 +15,6 @@ community members. We are committed to identifying ways to build a culturally di
 inclusivity. We pledge to improve campus climate pertaining to ableism, ageism, ethnocentrism, homophobia, racism, religious oppression, sexism, sexual misconduct, transphobia, 
 and other forms of marginalization. We value diversity, reject judgments based on differences, and instead embrace those differences as assets. Our success depends on our 
 diversity and together we will shape the future.
+
+
 
