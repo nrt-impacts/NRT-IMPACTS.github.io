@@ -6,18 +6,15 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: image1.png
+  image_fullwidth: drawing.png
 widget1:
   title: "Upcoming"
   url: ''
   image: widget-1-302x182.jpg
   text: 'News<br/>
-Phenomic Applications in Plant Breeding<br/>
+What is IMPACTS<br/>
 Date: 2021<br/>
-Registration Deadline: Wednesday, November 27, 2019<br/>
-General Registration link<br/>
-Poster Registration link<br/>
-Mini Data Carpentry Genomics Workshop schedule<br/>
+What is in the Program<br/>
 More details here.'
 widget2:
   title: "News & Events"
