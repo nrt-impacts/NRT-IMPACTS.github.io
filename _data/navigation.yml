@@ -3,24 +3,24 @@
   side: left
 
 - title: About
-  url: "/About/"
+  url: "/About_Mission/"
   side: left
   dropdown:
   - title: "Mission"
-    url: "/Mission/"
+    url: "/About_Mission/"
   - title: "Program Components"
-    url: "/Program Components/"
+    url: "/About_Program_Components/"
   - title: "Inclusion"
-    url: "/Inclusion/"
+    url: "/About_Inclusion/"
 
 - title: "Participation"
   url: "/Participation/"
   side: left
   dropdown:
   - title: "Why participate as a student Trainee?"
-    url: "/Why participate as a student Trainee?/"
+    url: "/Participation_Why_participate_as_a_student_Trainee?/"
   - title: "Why participate as a Trainer?"
-    url: "/Why participate as a Trainer?/"
+    url: "/Participation_Why_participate_as_a_Trainer?/"
  
 - title: "Program"
   url: "/Program/"
