@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: Homepage.png
+  image_fullwidth: Grape_Homepage.png
 widget1:
   title: "Upcoming"
   url: ''
