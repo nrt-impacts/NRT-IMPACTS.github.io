@@ -4,7 +4,7 @@ subheadline:  "About_Mission"
 title:  "About Our Program"
 teaser: "What is our Mission"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "header_roadmap_3.jpg"
 permalink: "/About_Mission/"
 ---
 ## Our Mission
