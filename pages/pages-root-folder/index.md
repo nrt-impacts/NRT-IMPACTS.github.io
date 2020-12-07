@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: 1024.png
+  image_fullwidth: Homepage.png
 widget1:
   title: "Upcoming"
   url: ''
