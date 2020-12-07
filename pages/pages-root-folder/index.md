@@ -11,9 +11,9 @@ widget1:
   title: "Upcoming"
   url: ''
   image: widget-1-302x182.jpg
-  text: 'Corteva-PBGB-NRT Symposium<br/>
+  text: 'News<br/>
 Phenomic Applications in Plant Breeding<br/>
-Date: December 12-13th, 2019<br/>
+Date: 2021<br/>
 Registration Deadline: Wednesday, November 27, 2019<br/>
 General Registration link<br/>
 Poster Registration link<br/>
