@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: Grape_Homepage.png
 widget1:
-  title: "Upcoming"
+  title: "What is IMPACTS?<br/>Integrated training Model in Plant And Compu-Tational Sciences is an NSF-funded program for training doctoral students to employ advanced computational/data science approaches to address grand challenges in plant biology."
   url: ''
   image: widget-1-302x182.jpg
   text: 'News<br/>
