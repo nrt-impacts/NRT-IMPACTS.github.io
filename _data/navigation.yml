@@ -3,7 +3,7 @@
   side: left
 
 - title: About
-  url: "/About_Mission/"
+  url: "/About/"
   side: left
   dropdown:
   - title: "Mission"
@@ -23,7 +23,7 @@
     url: "/Why participate as a Trainer?/"
  
 - title: "Program"
-  url: "/headers/"
+  url: "/Program/"
   side: left
   dropdown:
   - title: "Goals"
