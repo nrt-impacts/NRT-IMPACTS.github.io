@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline:  "About"
+subheadline:  "About_Mission"
 title:  "About Our Program"
 teaser: "What is our Mission"
 header:
