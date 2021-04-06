@@ -8,7 +8,7 @@ permalink: "/people_staff_trainers/"
 ---
 
 <head>
-  <base href="https://ShiuLab.github.io/images/people/">
+  <base href="https://nrt-impacts.github.io/images/people/">
 </head>
 
 <H3>Staff & Trainers</H3>
