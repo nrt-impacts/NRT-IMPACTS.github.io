@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Staff & Trainers"
+title: "Staff_and_Trainers"
 #teaser: ""
 header:
   image_fullwidth: "header_homepage_13.jpg"
