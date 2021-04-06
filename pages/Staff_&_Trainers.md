@@ -1,7 +1,7 @@
 ---
 layout: page
-subheadline:  "Staff & Trainers"
 title: "Staff & Trainers"
+#teaser: ""
 header:
   image_fullwidth: "header_homepage_13.jpg"
 permalink: "/Staff_trainers/"
