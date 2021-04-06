@@ -4,7 +4,7 @@ title: "Staff_and_Trainers"
 #teaser: ""
 header:
   image_fullwidth: "header_homepage_13.jpg"
-permalink: "/Staff_and Trainers/"
+permalink: "/Staff_and_Trainers/"
 ---
 
 <head>
